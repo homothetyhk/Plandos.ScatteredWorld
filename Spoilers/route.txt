@@ -1,0 +1,119 @@
+This document summarizes one possible route through the plando. There may be other faster or more convenient routes.
+There are many possible safeties that can be added (getting swim items from Colosseum, getting mask shards or notches or charms or nail upgrades, getting level 2 spells).
+---------------------------------------------------------------------------
+Exhaust Quirrels dialogue and reload the room to get Temple Exterior Bench.
+Warp to Temple Exterior (05).
+
+Equip Mark of Pride.
+Go east and collect 85 geo from the Myla soul totem.
+Lever skip down to buy Prophet's Gate Bench from Crossroads_Stag.
+Go to False Knight and collect both items (65 geo, Right Mothwing Cloak).
+Continue to buy Crossroads Elevator Bench from Crossroads Map.
+Go down and to the right toward Goam Mask Shard. Use Mark of Pride to background pogo up and get the King's Idol there.
+Warp to Prophet's Gate (19).
+
+Unequip Mark of Pride.
+Go down to Upper Deepnest Map and buy Watcher's Skyway Bench.
+Warp to Watcher's Skyway (23).
+
+Head down and collect Longnail from left city rancid egg.
+Sell the King's Idol to Lemm.
+Get Left Mothwing Cloak from rafters seal.
+Continue to get Duranda's Trial Bench from Nailsmith Bench and buy Nail 1.
+Warp to Crossroads Elevator (06).
+
+Go right to Salubra and buy Dirtmouth Stag. Rescue Sly. (journal at shops totem, 150 geo from gruz mother)
+Warp to last bench, then go to Dirtmouth and buy Howling Wraiths from Sly. (costs 120)
+? Buy Ancient Nest Bench from Sly? (costs 400)
+Warp to Temple Exterior (05).
+
+Go to Brooding Mawlek and get Ancestral Mound Bench. (journal at upper totem, 80 geo at lower totem)
+Warp to Ancestral Mound (03).
+Get Baldur Cavern bench from Vengeful Spirit.
+Get Gulka Gulley bench from Soul Catcher. (journal at lower totem, 200 geo at cocoon)
+Warp to Gulka Gulley (09).
+
+Get Abyss Workshop bench from Greenpath chest.
+Warp to Abyss Workshop (40) and get dive from void tendrils.
+Warp back to Gulka Gulley (10) and navigate to Greenpath Map, for Inner Sanctum Bench.
+Warp to Inner Sanctum (25) and defeat Soul Master, for Right Crystal Heart.
+
+Warp to Duranda's Trial (10) and navigate to Hornet for Fungal Tower bench. (200 geo at Thorns, seal at cloak)
+Warp to Fungal Tower (18). Buy Millibelle bench from Leg Eater.
+Head down to get Acid Sluice West bench from Fungal Wastes map. (160 geo from sporg seal)
+Warp to Acid Sluice West (29), and head down to broken bridge journal for Remote Acid Sluice bench.
+Warp to Remote Acid Sluice (30), and head down to east waterways egg for Right Mantis Claw.
+
+Warp to Temple Exterior (05) and navigate to Goam entry, for Crystal Cavern bench. (journal at totem)
+Warp to Crystal Cavern (47) and navigate to Crystal Crawler journal, for Left Crystal Heart.
+Continue down, open the gate to Crystal Heart, and rest at Crusher Refuge bench.
+Get Vengeful Spirit at Crystal Heart (seal at split CH). Warp to last bench.
+Get King's Pass bench at Deep Focus. Warp to last bench.
+Get Crystallized Mound bench at Crystal Peak map. Warp to last bench.
+Descend to the bottom of peak and get Crypts bench from the dark room egg.
+
+Warp to King's Pass (00), and get Elevator Pass from Fury of the Fallen. (seal at cocoon)
+Warp to Crypts (52), and get Ornate Door bench from the soul totem under Xero.
+Warp to Baldur Cavern (02), and get Overgrown Mound bench from Baldur Shell.
+Warp to Overgrown Mound bench (16) and get Queen's Station Stag from Howling Wraiths.
+Optional: warp to Crossroads Elevator (06) and stag to Queen's Station to get Lumafly Lantern from QS mask shard.
+Warp to Millibelle (14) and navigate to the Fog Canyon lifeblood cocoon for Elegant Key, with a nearby Full Mask.
+Warp to Ornate Door (26) and get Left Mantis Claw from Shade Soul.
+
+Warp to Crystal Mound (50) and get Shaman Stone from Descending Dark.
+Warp to Acid Sluice West (29) and ascend to get the following:
+- Hermit Approach bench at Flukenest
+- King's Brand at Dung Defender Idol
+- Mantis Hub bench at Waterways map.
+
+Warp to Hermit Approach (32) and go down to Junk Pit to get a Simple Key from the left chests and Monarch Wings from Godtuner.
+Warp to Mantis Hub (21) and rescue Bretta.
+Warp to Crypts (52) and take the elevator. Buy Far Basin bench from King's Station Stag and pick up Grimmchild above the station.
+Stag to Dirtmouth. Get Zote's Folly bench from Bretta mask shard. Buy Ancient Nest bench from Sly if you didn't earlier.
+
+Warp to Zote's Folly (36), and collect the White Fragment from the King's Idol.
+Go into dark Deepnest to get Shade Cloak from the soul totem below Mask Maker.
+Warp to Ancient Nest (35). Get Weaver's Den bench from Sharp Shadow.
+Warp to Weaver's Den (37). Get King's Door bench from the geo chest.
+Warp to King's Door (39). Hit the lighthouse lever.
+Warp to Abyss Workshop (40). Carry the lifeblood from the bench back to the main Abyss room.
+Get Shopkeeper's key from the LBC egg, and a White Fragment from LBC.
+
+Warp to Far Basin (38).
+Get Destroyed Tram from Monarch Wings.
+Warp to Destroyed Tram (58). Get Hidden Station from the Tramway cocoon.
+
+Warp to Crossroads Elevator (06) and equip Grimmchild. 
+Stag to Hidden Station, and buy Throne Approach bench. Stag to Dirtmouth.
+Buy Path Midpoint bench from Sly.
+Defeat Grimm for Distant Village Stag.
+
+Warp to Throne Approach (56) and get Dream Nail from King Fragment.
+Warp to Path Midpoint and get Dream Gate from the hidden totem in the third PoP room.
+Warp to King's Door (39) and equip Kingsoul. Go to Birthplace to get Thorny Respite bench and Archive bench.
+Warp to Thorny Respite (55) and climb to get Awoken Dream Nail from the east palace totem.
+
+Warp to Far Basin and get Tram Pass from the Basin pale ore. 
+Tram to lower Kingdom's Edge, and navigate to Kingdom's Edge map to buy Hornet's Outpost bench.
+Warp to Hornet's Outpost (46), and defeat Hornet 2 for Hive Hideaway bench.
+Warp to Hive Hideaway (44), and defeat Hive Knight for Spirits' Glade bench. (Hiveblood is at the mask shard)
+Warp to Spirits' Glade (51), and collect Resting Grounds stag from the idol.
+
+Warp to Prophet's Gate (19) and collect Fungal Core bench from Spore Shroom.
+Warp to Fungal Core (20) and navigate to super secret seal for City Storerooms stag.
+
+Warp back Millibelle and go to Canyon End bench to get Dark Gardens bench.
+Continue to Fog Canyon map to buy Lake of Unn bench.
+Get Queen's Gardens Stag from Love Key. Collect 3 essence from the root.
+Warp to Crossroads Elevator and leave a dream gate at the stag. Stag to QG.
+Get King's Station Stag from Queen Fragment.
+Dream gate back to the stag and stag to HS.
+Enter palace the intended way to get Crossroads Stag from the totem in the second room.
+
+Warp to Lake of Unn (07) and Unn skip to get Greenpath Stag from Unn.
+Dream gate back to the stag and stag to Stag Nest. Pick up Beast's Den bench from the stag.
+
+Warp to Watcher's Skyway and cross through the fountain to reach the spire. Climb to get Lurien.
+Warp to Archive to get Monomon.
+Warp to Beast Den to get Herrah.
+Warp to start to defeat the Radiance!!! (the final fragment is at World Sense)

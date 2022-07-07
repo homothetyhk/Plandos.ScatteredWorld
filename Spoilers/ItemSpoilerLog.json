@@ -1,0 +1,1782 @@
+[
+  {
+    "item": "Elegant_Key",
+    "location": "Lifeblood_Cocoon-Fog_Canyon_West"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Lower_Kingdom's_Edge_1"
+  },
+  {
+    "item": "Weaversong",
+    "location": "Journal_Entry-Garpede"
+  },
+  {
+    "item": "Steady_Body",
+    "location": "Boss_Geo-Elegant_Soul_Warrior"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Requires_Dive"
+  },
+  {
+    "item": "Lumafly_Lantern",
+    "location": "Mask_Shard-Queen's_Station"
+  },
+  {
+    "item": "Fragile_Strength",
+    "location": "Mark_of_Pride"
+  },
+  {
+    "item": "Boss_Geo-Enraged_Guardian",
+    "location": "Soul_Totem-Pilgrim's_Way"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Soul_Sanctum"
+  },
+  {
+    "item": "Bench-King's_Pass",
+    "location": "Deep_Focus"
+  },
+  {
+    "item": "Bench-Isolated_Cell",
+    "location": "Rancid_Egg-Weaver's_Den"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Shade_Cloak"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Bench-Hive_Hideaway"
+  },
+  {
+    "item": "Howling_Wraiths",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {120 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Bench-Ancestral_Mound"
+  },
+  {
+    "item": "Bench-Path_Midpoint",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {110 Geo}"
+    ]
+  },
+  {
+    "item": "Unbreakable_Heart",
+    "location": "Hallownest_Seal-Queen's_Station"
+  },
+  {
+    "item": "Bench-Temple_Exterior",
+    "location": "Quirrel_Drop-Black_Egg_Temple"
+  },
+  {
+    "item": "Bench-Spirits'_Glade",
+    "location": "Hiveblood"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Deepnest_Mimic"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Great_Slash"
+  },
+  {
+    "item": "Sprintmaster",
+    "location": "Rancid_Egg-Crystal_Peak_Tall_Room"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Greenpath_MMC"
+  },
+  {
+    "item": "Journal_Entry-Garpede",
+    "location": "Right_Mantis_Claw"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-West_Lake_Shore"
+  },
+  {
+    "item": "Shaman_Stone",
+    "location": "Descending_Dark"
+  },
+  {
+    "item": "Bench-Remote_Acid_Sluice",
+    "location": "Wanderer's_Journal-Ancient_Basin"
+  },
+  {
+    "item": "Soul_Totem-G",
+    "location": "Hallownest_Seal-Queen's_Gardens"
+  },
+  {
+    "item": "Dirtmouth_Stag",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {100 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Abyss_Workshop",
+    "location": "Geo_Chest-Greenpath"
+  },
+  {
+    "item": "Sharp_Shadow",
+    "location": "Queen's_Gardens_Stag",
+    "costs": [
+      "LogicGeoCost {200 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Upper_Kingdom's_Edge"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Path_of_Pain_Entrance"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Lower_Kingdom's_Edge_2"
+  },
+  {
+    "item": "Bench-Hive_Hideaway",
+    "location": "King's_Brand"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Fog_Canyon"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Arcane_Egg-Shade_Cloak"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_3",
+    "location": "Rancid_Egg-Fungal_Core"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Hive_Internal"
+  },
+  {
+    "item": "Lurien",
+    "location": "Lurien",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_1",
+    "location": "Hallownest_Seal-Resting_Grounds_Catacombs"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-King's_Station"
+  },
+  {
+    "item": "Unbreakable_Strength",
+    "location": "Journal_Entry-Charged_Lumafly"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_2",
+    "location": "Soul_Totem-Fungal_Core"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Crossroads_Shops"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Beast's_Den"
+  },
+  {
+    "item": "Hunter's_Journal",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 900}"
+    ]
+  },
+  {
+    "item": "Geo_Chest-Soul_Master",
+    "location": "Soul_Totem-Pale_Lurker"
+  },
+  {
+    "item": "Full_Mask",
+    "location": "Hallownest_Seal-Fog_Canyon_West"
+  },
+  {
+    "item": "Bench-Hermit's_Approach",
+    "location": "Flukenest"
+  },
+  {
+    "item": "Boss_Geo-Vengefly_King",
+    "location": "City_Crest"
+  },
+  {
+    "item": "Grub",
+    "location": "Mimic_Grub-Deepnest_2"
+  },
+  {
+    "item": "Resting_Grounds_Map",
+    "location": "Rancid_Egg-Beast's_Den"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Fungal_Tower"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Bench-Remote_Acid_Sluice"
+  },
+  {
+    "item": "Thorns_of_Agony",
+    "location": "Soul_Totem-Sanctum_Below_Chest"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Soul_Totem-Path_of_Pain_Final"
+  },
+  {
+    "item": "Bench-Throne_Approach",
+    "location": "Hidden_Station_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Crossroads_Elevator"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Watcher's_Skyway"
+  },
+  {
+    "item": "City_of_Tears_Map",
+    "location": "Rancid_Egg-Waterways_West_Bluggsac"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Watcher's_Spire"
+  },
+  {
+    "item": "Soul_Eater",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {500 Geo}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Path_of_Pain_Below_Lever"
+  },
+  {
+    "item": "Bench-Zote's_Folly",
+    "location": "Mask_Shard-Bretta"
+  },
+  {
+    "item": "Elevator_Pass",
+    "location": "Fury_of_the_Fallen"
+  },
+  {
+    "item": "Bench-Ancestral_Mound",
+    "location": "Mask_Shard-Brooding_Mawlek"
+  },
+  {
+    "item": "Bench-Blasted_Plains",
+    "location": "Rancid_Egg-Waterways_Main"
+  },
+  {
+    "item": "Flukenest",
+    "location": "Rancid_Egg-Dark_Deepnest"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Crystallized_Mound"
+  },
+  {
+    "item": "Queen's_Station_Stag",
+    "location": "Howling_Wraiths"
+  },
+  {
+    "item": "Royal_Waterways_Map",
+    "location": "Hallownest_Seal-Beast's_Den"
+  },
+  {
+    "item": "Resting_Grounds_Stag",
+    "location": "King's_Idol-Glade_of_Hope"
+  },
+  {
+    "item": "Deepnest_Map",
+    "location": "Rancid_Egg-Waterways_West_Pickup"
+  },
+  {
+    "item": "Kingdom's_Edge_Map",
+    "location": "Rancid_Egg-Near_Quick_Slash"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Deepnest_Spike"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-King's_Pass"
+  },
+  {
+    "item": "Right_Mantis_Claw",
+    "location": "Rancid_Egg-Waterways_East"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Sanctuary_Vault"
+  },
+  {
+    "item": "Monomon",
+    "location": "Monomon",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {800 Geo}"
+    ]
+  },
+  {
+    "item": "Journal_Entry-Goam",
+    "location": "Left_Mantis_Claw"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Rancid_Egg-Tuk_Defender's_Crest"
+  },
+  {
+    "item": "Wayward_Compass",
+    "location": "Dirtmouth_Stag"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Bench-Watcher's_Skyway",
+    "location": "Deepnest_Map-Upper",
+    "costs": [
+      "LogicGeoCost {38 Geo}"
+    ]
+  },
+  {
+    "item": "Void_Heart",
+    "location": "World_Sense"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Hornet's_Outpost"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Chest-Junk_Pit_2"
+  },
+  {
+    "item": "Bench-Crystallized_Mound",
+    "location": "Crystal_Peak_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Geo_Chest-Weavers_Den",
+    "location": "Hallownest_Seal-Fungal_Wastes_Sporgs"
+  },
+  {
+    "item": "Bench-Pleasure_House",
+    "location": "Geo_Chest-Watcher_Knights"
+  },
+  {
+    "item": "Distant_Village_Stag",
+    "location": "Charm_Notch-Grimm"
+  },
+  {
+    "item": "Bench-Millibelle",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {160 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Crown_Ascent"
+  },
+  {
+    "item": "King's_Station_Stag",
+    "location": "Queen_Fragment"
+  },
+  {
+    "item": "Geo_Chest-Crystal_Peak",
+    "location": "Soul_Totem-Crossroads_Mawlek_Lower"
+  },
+  {
+    "item": "Howling_Cliffs_Map",
+    "location": "Soul_Totem-Beast's_Den"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Top_Left_Queen's_Gardens"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Pleasure_House"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Lifeblood_Cocoon-Mantis_Village"
+  },
+  {
+    "item": "Stag_Nest_Stag",
+    "location": "Vessel_Fragment-Stag_Nest"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Throne_Approach"
+  },
+  {
+    "item": "Crossroads_Stag",
+    "location": "Soul_Totem-White_Palace_Entrance"
+  },
+  {
+    "item": "Soul_Totem-G",
+    "location": "Bench-Gulka_Gulley"
+  },
+  {
+    "item": "Longnail",
+    "location": "Rancid_Egg-City_of_Tears_Left"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Soul_Totem-Crossroads_Acid"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-King's_Door"
+  },
+  {
+    "item": "Grub",
+    "location": "Mimic_Grub-Deepnest_1"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Vessel_Fragment-Crossroads"
+  },
+  {
+    "item": "Quill",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 900}"
+    ]
+  },
+  {
+    "item": "Cyclone_Slash",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 2}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-D",
+    "location": "Lifeblood_Cocoon-Greenpath"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Abyss_Shriek",
+    "costs": [
+      "{SCREAM >= 1}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Fungal_Spore_Shroom"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Queen's_Gardens_Top"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Vessel_Fragment-City"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Simple_Key-Basin"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "King's_Idol-Pale_Lurker"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Queen's_Station_Stag",
+    "costs": [
+      "LogicGeoCost {120 Geo}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Cliffs_Main"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-City_of_Tears_Left"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Vessel_Fragment-Basin",
+    "costs": [
+      "LogicGeoCost {3000 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Greenpath_Entrance",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {280 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Weaver's_Den",
+    "location": "Sharp_Shadow"
+  },
+  {
+    "item": "Bench-Lurker's_Overlook",
+    "location": "Queen's_Gardens_Map",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Thorny_Respite",
+    "location": "Arcane_Egg-Birthplace"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Waterways_Requires_Tram"
+  },
+  {
+    "item": "Spore_Shroom",
+    "location": "Soul_Totem-Greenpath_Below_Toll"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Queen's_Gardens_Marmu"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Unbreakable_Strength",
+    "costs": [
+      "LogicGeoCost {750 Geo}"
+    ]
+  },
+  {
+    "item": "Boss_Geo-Gorgeous_Husk",
+    "location": "Wanderer's_Journal-Fungal_Wastes_Thorns_Gauntlet"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Mask_Shard-Crossroads_Goam"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Crossroads_Goam_Journal"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Entrance"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Grimmchild"
+  },
+  {
+    "item": "Bench-Hornet's_Outpost",
+    "location": "Kingdom's_Edge_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Basin_Requires_Wings"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "King's_Idol-Crystal_Peak"
+  },
+  {
+    "item": "Glowing_Womb",
+    "location": "Charm_Notch-Shrumal_Ogres"
+  },
+  {
+    "item": "Full_Mask",
+    "location": "Rancid_Egg-City_of_Tears_Pleasure_House"
+  },
+  {
+    "item": "Bench-Mantis_Hub",
+    "location": "Royal_Waterways_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Full_Soul_Vessel",
+    "location": "Boss_Geo-Enraged_Guardian"
+  },
+  {
+    "item": "Shopkeeper's_Key",
+    "location": "Arcane_Egg-Lifeblood_Core"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "City_Storerooms_Stag",
+    "costs": [
+      "LogicGeoCost {200 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crystal_Peak_Below_Chest"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Isma's_Grove"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Spirits'_Glade"
+  },
+  {
+    "item": "Hiveblood",
+    "location": "Mask_Shard-Hive"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crystal_Peak_Spike"
+  },
+  {
+    "item": "Left_Mantis_Claw",
+    "location": "Shade_Soul"
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Bench-Ancient_Nest"
+  },
+  {
+    "item": "Bench-Prophet's_Gate",
+    "location": "Crossroads_Stag",
+    "costs": [
+      "LogicGeoCost {50 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Gulka_Gulley",
+    "location": "Soul_Catcher"
+  },
+  {
+    "item": "Fragile_Heart",
+    "location": "Joni's_Blessing"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Before_Pilgrim's_Way"
+  },
+  {
+    "item": "Boss_Geo-Sanctum_Soul_Warrior",
+    "location": "Thorns_of_Agony"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Greenpath_Journal"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Bench-Millibelle"
+  },
+  {
+    "item": "Crossroads_Map",
+    "location": "Soul_Totem-Oro"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Greenpath_Hunter's_Journal"
+  },
+  {
+    "item": "Bench-Crossroads_Elevator",
+    "location": "Crossroads_Map",
+    "costs": [
+      "LogicGeoCost {30 Geo}"
+    ]
+  },
+  {
+    "item": "Unbreakable_Greed",
+    "location": "Boss_Geo-Gorgeous_Husk"
+  },
+  {
+    "item": "Greenpath_Stag",
+    "location": "Shape_of_Unn"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Sanctum_Below_Soul_Master"
+  },
+  {
+    "item": "Queen_Fragment",
+    "location": "King's_Idol-Deepnest"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Deepnest_Nosk"
+  },
+  {
+    "item": "Bench-Padded_Door",
+    "location": "Pale_Ore-Nosk"
+  },
+  {
+    "item": "Right_Mothwing_Cloak",
+    "location": "Geo_Chest-False_Knight"
+  },
+  {
+    "item": "Love_Key",
+    "location": "Bench-Padded_Door"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Crossroads_Stag"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Isolated_Cell"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Howling_Cliffs"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Below_Marmu"
+  },
+  {
+    "item": "Bench-Inner_Sanctum",
+    "location": "Greenpath_Map",
+    "costs": [
+      "LogicGeoCost {60 Geo}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Ancestral_Mound"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Unbreakable_Heart",
+    "costs": [
+      "LogicGeoCost {600 Geo}"
+    ]
+  },
+  {
+    "item": "Hidden_Station_Stag",
+    "location": "Lifeblood_Cocoon-Failed_Tramway"
+  },
+  {
+    "item": "Boss_Geo-Elegant_Soul_Warrior",
+    "location": "Lifeblood_Cocoon-Ancestral_Mound"
+  },
+  {
+    "item": "Bench-Isma's_Grove",
+    "location": "Ancient_Basin_Map",
+    "costs": [
+      "LogicGeoCost {112 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Rancid_Egg-Queen's_Gardens"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Soul_Totem-Distant_Village"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Collector_2"
+  },
+  {
+    "item": "Bench-Crystal_Cavern",
+    "location": "Journal_Entry-Goam"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Deepnest_Maze"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Dream_Nail"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Bench-Hermit's_Approach"
+  },
+  {
+    "item": "Geo_Chest-Junk_Pit_5",
+    "location": "Mask_Shard-Enraged_Guardian"
+  },
+  {
+    "item": "Journal_Entry-Void_Tendrils",
+    "location": "Lifeblood_Cocoon-Galien"
+  },
+  {
+    "item": "Geo_Chest-Greenpath",
+    "location": "Soul_Totem-Crossroads_Myla"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Lifeblood_Cocoon-Kingdom's_Edge"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Wanderer's_Journal-City_Storerooms"
+  },
+  {
+    "item": "Geo_Chest-Mantis_Lords",
+    "location": "Soul_Totem-Crystal_Heart_2"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Bench-Acid_Sluice_West"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Mask_Shard-Grey_Mourner"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hunter's_Journal"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Wanderer's_Journal-Cliffs"
+  },
+  {
+    "item": "Joni's_Blessing",
+    "location": "Collector's_Map"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Path_of_Pain_Below_Thornskip"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crossroads_Spike"
+  },
+  {
+    "item": "Isma's_Tear",
+    "location": "Pale_Ore-Colosseum"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Greenpath_Cornifer"
+  },
+  {
+    "item": "Left_Mothwing_Cloak",
+    "location": "Hallownest_Seal-City_Rafters"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Bench-Lurker's_Overlook"
+  },
+  {
+    "item": "Gathering_Swarm",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {50 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Ancient_Nest",
+    "location": "Sly",
+    "costs": [
+      "LogicGeoCost {400 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Baldur_Cavern",
+    "location": "Vengeful_Spirit"
+  },
+  {
+    "item": "Split_Shade_Cloak",
+    "location": "Soul_Totem-Mask_Maker"
+  },
+  {
+    "item": "Crystal_Peak_Map",
+    "location": "Rancid_Egg-Crystal_Peak_Dive_Entrance"
+  },
+  {
+    "item": "Bench-Crusher_Refuge",
+    "location": "City_of_Tears_Map",
+    "costs": [
+      "LogicGeoCost {90 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Mimic_Grub-Deepnest_3"
+  },
+  {
+    "item": "Vengeful_Spirit",
+    "location": "Crystal_Heart"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Crossroads_Center"
+  },
+  {
+    "item": "Boss_Geo-Crystal_Guardian",
+    "location": "Hallownest_Seal-Watcher_Knight"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {220 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Geo_Chest-Resting_Grounds"
+  },
+  {
+    "item": "Bench-Colosseum",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {20 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crystal_Peak_Crushers"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Boss_Geo-Massive_Moss_Charger"
+  },
+  {
+    "item": "Bench-Deepnest_Maze",
+    "location": "Deepnest_Map-Right",
+    "costs": [
+      "LogicGeoCost {38 Geo}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Boss_Geo-Vengefly_King"
+  },
+  {
+    "item": "Left_Crystal_Heart",
+    "location": "Wanderer's_Journal-Crystal_Peak_Crawlers"
+  },
+  {
+    "item": "Grub",
+    "location": "Mimic_Grub-Crystal_Peak"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Crossroads_Mawlek_Upper"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Bench-Colosseum"
+  },
+  {
+    "item": "Godtuner",
+    "location": "Pale_Ore-Crystal_Peak"
+  },
+  {
+    "item": "Boss_Geo-Gruz_Mother",
+    "location": "Soul_Totem-Top_Left_Waterways"
+  },
+  {
+    "item": "Soul_Totem-E",
+    "location": "Bench-Baldur_Cavern"
+  },
+  {
+    "item": "Soul_Totem-D",
+    "location": "Bench-Zote's_Folly"
+  },
+  {
+    "item": "Geo_Chest-Watcher_Knights",
+    "location": "Hallownest_Seal-Soul_Sanctum"
+  },
+  {
+    "item": "Herrah",
+    "location": "Herrah",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Bench-Duranda's_Trial",
+    "location": "Bench-Nailsmith"
+  },
+  {
+    "item": "Full_Mask",
+    "location": "Soul_Totem-Deepnest_Vessel"
+  },
+  {
+    "item": "Bench-Destroyed_Tram",
+    "location": "Monarch_Wings"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Chest-Junk_Pit_3"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Thorny_Respite"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Blasted_Plains"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Leg_Eater",
+    "costs": [
+      "LogicGeoCost {850 Geo}"
+    ]
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Fungal_Bouncy"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Crusher_Refuge"
+  },
+  {
+    "item": "Arcane_Egg",
+    "location": "Soul_Totem-Outside_Crystallized_Mound"
+  },
+  {
+    "item": "Geo_Chest-False_Knight",
+    "location": "Defender's_Crest"
+  },
+  {
+    "item": "Dashmaster",
+    "location": "Hallownest_Seal-Mantis_Lords"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Boss_Geo-Sanctum_Soul_Warrior"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Crypts"
+  },
+  {
+    "item": "Right_Crystal_Heart",
+    "location": "Desolate_Dive"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Bench-Bardoon"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Waterways_Flukemarm"
+  },
+  {
+    "item": "Collector's_Map",
+    "location": "Weaversong"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Crystallized_Mound"
+  },
+  {
+    "item": "Quick_Slash",
+    "location": "King's_Idol-Great_Hopper"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Mothwing_Cloak"
+  },
+  {
+    "item": "Dream_Wielder",
+    "location": "Vessel_Fragment-Deepnest"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Shopkeeper's_Key"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Mantis_Village"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Cyclone_Slash"
+  },
+  {
+    "item": "Dream_Nail",
+    "location": "King_Fragment"
+  },
+  {
+    "item": "Bench-Dark_Gardens",
+    "location": "Bench-Canyon's_End"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Dark_Deepnest"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Soul_Totem-Cliffs_Joni's"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hallownest_Seal-Crossroads_Well"
+  },
+  {
+    "item": "Bench-Mantis_Village",
+    "location": "Glowing_Womb"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Bench-Far_Basin"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Wanderer's_Journal-Greenpath_Stag"
+  },
+  {
+    "item": "Tram_Pass",
+    "location": "Pale_Ore-Basin"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Basin"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Bench-Ornate_Door"
+  },
+  {
+    "item": "Grubberfly's_Elegy",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 1}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Unbreakable_Greed",
+    "costs": [
+      "LogicGeoCost {450 Geo}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Greenpath_MMC"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Mantis_Hub"
+  },
+  {
+    "item": "Fragile_Greed",
+    "location": "Geo_Chest-Soul_Master"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Resting_Grounds_Stag"
+  },
+  {
+    "item": "Full_Soul_Vessel",
+    "location": "Rancid_Egg-Upper_Kingdom's_Edge"
+  },
+  {
+    "item": "Bench-Far_Basin",
+    "location": "King's_Station_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Wanderer's_Journal-King's_Station"
+  },
+  {
+    "item": "Stalwart_Shell",
+    "location": "Dreamshield"
+  },
+  {
+    "item": "Bench-Crypts",
+    "location": "Rancid_Egg-Crystal_Peak_Dark_Room"
+  },
+  {
+    "item": "Desolate_Dive",
+    "location": "Journal_Entry-Void_Tendrils"
+  },
+  {
+    "item": "Bench-Fungal_Core",
+    "location": "Spore_Shroom"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crossroads_Acid"
+  },
+  {
+    "item": "Defender's_Crest",
+    "location": "Soul_Totem-Waterways_East"
+  },
+  {
+    "item": "Geo_Chest-Resting_Grounds",
+    "location": "Boss_Geo-Gruz_Mother"
+  },
+  {
+    "item": "Grubsong",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {200 Geo}"
+    ]
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Mask_Shard-Stone_Sanctuary"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Mask_Shard-Deepnest"
+  },
+  {
+    "item": "Fury_of_the_Fallen",
+    "location": "Elevator_Pass",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Soul_Totem-Path_of_Pain_Second"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Prophet's_Gate"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Crossroads_Guarded"
+  },
+  {
+    "item": "Bench-Beast's_Den",
+    "location": "Stag_Nest_Stag",
+    "costs": [
+      "LogicGeoCost {300 Geo}"
+    ]
+  },
+  {
+    "item": "Abyss_Shriek",
+    "location": "Nailmaster's_Glory"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {100 Geo}"
+    ]
+  },
+  {
+    "item": "City_Storerooms_Stag",
+    "location": "Hallownest_Seal-Deepnest_By_Mantis_Lords"
+  },
+  {
+    "item": "King's_Brand",
+    "location": "King's_Idol-Dung_Defender"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Split_Crystal_Heart"
+  },
+  {
+    "item": "Nailmaster's_Glory",
+    "location": "Bench-Duranda's_Trial"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Hallownest_Crown"
+  },
+  {
+    "item": "Journal_Entry-Charged_Lumafly",
+    "location": "Hallownest_Seal-Fog_Canyon_East"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Simple_Key-City"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Waterways_Main"
+  },
+  {
+    "item": "Bench-Unn's_Chamber",
+    "location": "Charm_Notch-Fog_Canyon"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Wanderer's_Journal-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Weaver's_Den"
+  },
+  {
+    "item": "Journal_Entry-Seal_of_Binding",
+    "location": "Geo_Chest-Crystal_Peak"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Large",
+    "location": "Bench-Abyss_Workshop"
+  },
+  {
+    "item": "Ancient_Basin_Map",
+    "location": "Soul_Totem-420_Geo_Rock"
+  },
+  {
+    "item": "Bench-Lake_of_Unn",
+    "location": "Fog_Canyon_Map",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Archives",
+    "location": "Void_Heart",
+    "costs": [
+      "{DREAMNAIL >= 1}"
+    ]
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Crystal_Peak_Mimic"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Basin_Requires_Dive"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Lifeblood_Cocoon-King's_Pass"
+  },
+  {
+    "item": "Lifeblood_Heart",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {150 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Dashmaster"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Collector_1"
+  },
+  {
+    "item": "Bench-Nailsmith",
+    "location": "Rancid_Egg-Sheo"
+  },
+  {
+    "item": "Swim",
+    "location": "Charm_Notch-Colosseum"
+  },
+  {
+    "item": "Dreamshield",
+    "location": "Wanderer's_Journal-Above_Mantis_Village"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Soul_Totem-Cliffs_Gorb"
+  },
+  {
+    "item": "Great_Slash",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 4}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Sanctum_Above_Grub"
+  },
+  {
+    "item": "Greenpath_Map",
+    "location": "Soul_Totem-Oro_Dive_1"
+  },
+  {
+    "item": "Lifeblood_Cocoon_Small",
+    "location": "Bench-Inner_Sanctum"
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Lumafly_Escape-Junk_Pit_Chest_4"
+  },
+  {
+    "item": "Dream_Gate",
+    "location": "Soul_Totem-Path_of_Pain_Hidden"
+  },
+  {
+    "item": "Full_Soul_Vessel",
+    "location": "Wanderer's_Journal-Resting_Grounds_Catacombs"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Overgrown_Mound"
+  },
+  {
+    "item": "Bench-Bardoon",
+    "location": "Simple_Key-Lurker"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Resting_Grounds"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-City_of_Tears_Guarded"
+  },
+  {
+    "item": "Bench-Canyon's_End",
+    "location": "Bench-Dark_Gardens"
+  },
+  {
+    "item": "King's_Idol",
+    "location": "Vessel_Fragment-Greenpath"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Upper_Crystal_Peak"
+  },
+  {
+    "item": "Lifeblood_Core",
+    "location": "Sly_(Key)",
+    "costs": [
+      "LogicGeoCost {450 Geo}"
+    ]
+  },
+  {
+    "item": "City_Crest",
+    "location": "Seer",
+    "costs": [
+      "{ESSENCE >= 900}"
+    ]
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Spell_Twister"
+  },
+  {
+    "item": "Awoken_Dream_Nail",
+    "location": "Soul_Totem-White_Palace_Right"
+  },
+  {
+    "item": "Mark_of_Pride",
+    "location": "Bench-Temple_Exterior"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Resting_Grounds"
+  },
+  {
+    "item": "Monarch_Wings",
+    "location": "Godtuner",
+    "costs": [
+      "{SIMPLE >= 1}"
+    ]
+  },
+  {
+    "item": "Queen's_Gardens_Stag",
+    "location": "Love_Key"
+  },
+  {
+    "item": "Deep_Focus",
+    "location": "Boss_Geo-Crystal_Guardian"
+  },
+  {
+    "item": "Wanderer's_Journal",
+    "location": "Hallownest_Seal-Greenpath"
+  },
+  {
+    "item": "Bench-West_Lake_Shore",
+    "location": "Resting_Grounds_Map",
+    "costs": [
+      "LogicGeoCost {56 Geo}"
+    ]
+  },
+  {
+    "item": "Salubra's_Blessing",
+    "location": "Start"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "King's_Idol-Cliffs"
+  },
+  {
+    "item": "Bench-Crown_Ascent",
+    "location": "Soul_Eater"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Distant_Village_Stag",
+    "costs": [
+      "LogicGeoCost {250 Geo}"
+    ]
+  },
+  {
+    "item": "Fungal_Wastes_Map",
+    "location": "Soul_Totem-White_Palace_Hub"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Hive_External"
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Waterways_Entrance"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Crystal_Heart"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Kingdom's_Edge_Camp"
+  },
+  {
+    "item": "Soul_Totem-C",
+    "location": "Bench-Isma's_Grove"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Beast's_Den"
+  },
+  {
+    "item": "Lumafly_Escape",
+    "location": "Geo_Chest-Junk_Pit_1"
+  },
+  {
+    "item": "Bench-Acid_Sluice_West",
+    "location": "Fungal_Wastes_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Rancid_Egg-Blue_Lake"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Dash_Slash",
+    "costs": [
+      "LogicGeoCost {800 Geo}"
+    ]
+  },
+  {
+    "item": "Bench-Sanctuary_Vault",
+    "location": "Howling_Cliffs_Map",
+    "costs": [
+      "LogicGeoCost {75 Geo}"
+    ]
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Mask_Shard-Waterways"
+  },
+  {
+    "item": "Soul_Totem-A",
+    "location": "Bench-Destroyed_Tram"
+  },
+  {
+    "item": "Bench-Overgrown_Mound",
+    "location": "Baldur_Shell"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Bench-Path_Midpoint"
+  },
+  {
+    "item": "Grimmchild2",
+    "location": "Hallownest_Seal-King's_Station"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Crystallized_Mound"
+  },
+  {
+    "item": "Charm_Notch",
+    "location": "Soul_Totem-Crystal_Heart_1"
+  },
+  {
+    "item": "Baldur_Shell",
+    "location": "Greenpath_Stag",
+    "costs": [
+      "LogicGeoCost {140 Geo}"
+    ]
+  },
+  {
+    "item": "Dash_Slash",
+    "location": "Egg_Shop",
+    "costs": [
+      "{RANCIDEGGS >= 8}"
+    ]
+  },
+  {
+    "item": "Queen's_Gardens_Map",
+    "location": "Soul_Totem-White_Palace_Left"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Kingdom's_Edge_Oro"
+  },
+  {
+    "item": "Spell_Twister",
+    "location": "Soul_Totem-Hallownest_Crown"
+  },
+  {
+    "item": "Mimic_Grub",
+    "location": "Grub-Collector_3"
+  },
+  {
+    "item": "Bench-King's_Door",
+    "location": "Geo_Chest-Weavers_Den"
+  },
+  {
+    "item": "Quick_Focus",
+    "location": "Tram_Pass"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Greenpath_Entrance"
+  },
+  {
+    "item": "Shade_Soul",
+    "location": "Grubfather",
+    "costs": [
+      "{GRUBS >= 12}"
+    ]
+  },
+  {
+    "item": "Simple_Key",
+    "location": "Geo_Chest-Junk_Pit_5"
+  },
+  {
+    "item": "World_Sense",
+    "location": "Journal_Entry-Seal_of_Binding"
+  },
+  {
+    "item": "Fog_Canyon_Map",
+    "location": "Soul_Totem-Oro_Dive_2"
+  },
+  {
+    "item": "King_Fragment",
+    "location": "Lifeblood_Core"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Greenpath_Stag"
+  },
+  {
+    "item": "Boss_Geo-Massive_Moss_Charger",
+    "location": "Bench-Unn's_Chamber"
+  },
+  {
+    "item": "Bench-Ornate_Door",
+    "location": "Soul_Totem-Below_Xero"
+  },
+  {
+    "item": "Pale_Ore",
+    "location": "Isma's_Tear"
+  },
+  {
+    "item": "Heavy_Blow",
+    "location": "Quick_Slash"
+  },
+  {
+    "item": "Full_Mask",
+    "location": "Iselda",
+    "costs": [
+      "LogicGeoCost {750 Geo}"
+    ]
+  },
+  {
+    "item": "Rancid_Egg",
+    "location": "Soul_Totem-Path_of_Pain_Left_of_Lever"
+  },
+  {
+    "item": "Hallownest_Seal",
+    "location": "Wanderer's_Journal-Pleasure_House"
+  },
+  {
+    "item": "Grub",
+    "location": "Grub-Queen's_Gardens_Stag"
+  },
+  {
+    "item": "Soul_Totem-F",
+    "location": "Bench-Fungal_Core"
+  },
+  {
+    "item": "Descending_Dark",
+    "location": "Salubra",
+    "costs": [
+      "LogicGeoCost {500 Geo}",
+      "{CHARMS >= 20}"
+    ]
+  },
+  {
+    "item": "Soul_Catcher",
+    "location": "Geo_Chest-Mantis_Lords"
+  },
+  {
+    "item": "Shape_of_Unn",
+    "location": "Wanderer's_Journal-Greenpath_Lower"
+  },
+  {
+    "item": "Soul_Totem-Path_of_Pain",
+    "location": "Bench-Lake_of_Unn"
+  },
+  {
+    "item": "Bench-Fungal_Tower",
+    "location": "Split_Mothwing_Cloak"
+  },
+  {
+    "item": "Soul_Totem-B",
+    "location": "Bench-Crystal_Cavern"
+  },
+  {
+    "item": "Soul_Totem-Palace",
+    "location": "Bench-Archives"
+  },
+  {
+    "item": "Full_Mask",
+    "location": "Soul_Totem-White_Palace_Final"
+  }
+]
